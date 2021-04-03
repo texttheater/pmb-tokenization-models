@@ -1,0 +1,3 @@
+[submodule "elephant"]
+	path = elephant
+	url = https://github.com/ParallelMeaningBank/elephant.git
